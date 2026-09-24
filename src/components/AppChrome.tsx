@@ -451,6 +451,7 @@ export function AppChrome({
         { href: "/teacher/curriculum", label: "Curriculum", icon: "stackedPages" },
         { href: "/teacher/lessons", label: "Lessons", icon: "bookOpen" },
         { href: "/teacher/live", label: "Live", icon: "bolt" },
+        { href: "/teacher/lesson-feedback", label: "Lesson feedback", icon: "radio" },
       ],
     },
   ];
